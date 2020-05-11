@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PoultyModule"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "禽博士"
 
 
