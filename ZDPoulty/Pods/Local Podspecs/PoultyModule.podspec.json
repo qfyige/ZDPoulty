@@ -1,0 +1,22 @@
+{
+  "name": "PoultyModule",
+  "version": "0.0.2",
+  "summary": "禽博士",
+  "description": "禽博士App",
+  "homepage": "http://www.baidu.com",
+  "license": "MIT",
+  "authors": {
+    "litong01": "litong@cpgroup.cn"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/qfyige/ZDPoulty.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "PoultyModule",
+    "PoultyModule/*.{h,m}"
+  ]
+}

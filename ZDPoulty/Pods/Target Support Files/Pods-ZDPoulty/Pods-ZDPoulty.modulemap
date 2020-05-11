@@ -1,0 +1,6 @@
+framework module Pods_ZDPoulty {
+  umbrella header "Pods-ZDPoulty-umbrella.h"
+
+  export *
+  module * { export * }
+}

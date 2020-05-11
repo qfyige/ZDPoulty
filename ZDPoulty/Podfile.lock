@@ -1,0 +1,16 @@
+PODS:
+  - PoultyModule (0.0.2)
+
+DEPENDENCIES:
+  - PoultyModule (from `../`)
+
+EXTERNAL SOURCES:
+  PoultyModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PoultyModule: 93742c2c3f3516f0bd1f2772674190df2ed3e534
+
+PODFILE CHECKSUM: f44a1e00a36708acf95d5aea8d8e790dbad2e492
+
+COCOAPODS: 1.8.4
