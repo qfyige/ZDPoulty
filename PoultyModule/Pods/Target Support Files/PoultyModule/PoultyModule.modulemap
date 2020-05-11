@@ -1,0 +1,6 @@
+framework module PoultyModule {
+  umbrella header "PoultyModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
